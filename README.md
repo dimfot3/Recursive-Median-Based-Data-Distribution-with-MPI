@@ -1,4 +1,4 @@
-# Dristribute By Median
+# Recursive Median-Based Data Distribution with MPI
 
 ## Problem description
 This is the second project of Parallel and Distributed subjects of Electrical and Computer Engineering in Aristotle University of Thessaloniki. The main concept of this project is the creation of a Message Passing Interface(MPI) application.
